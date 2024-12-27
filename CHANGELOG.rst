@@ -9,7 +9,8 @@ Other
 
 - CI now tests against python 3.13
 
-Version 2.6.0
+
+Version 2.6.1
 -------------
 
 NOTICE
@@ -29,6 +30,11 @@ Other
 ~~~~~
 
 - CI now tests against Django 5.1
+
+Version 2.6.0 (09 Oct. 2024)
+----------------------------
+
+Not released for lack of a release pipeline at the time the tag was created.
 
 Version 2.5.5 (14 May 2023)
 ---------------------------
