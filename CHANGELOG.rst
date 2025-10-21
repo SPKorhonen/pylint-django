@@ -1,14 +1,23 @@
 Changelog
 =========
 
-Version 2.7.0
--------------
+2.7.0
+----------
+
+NOTICE
+~~~~~~
+
+We dropped support for:
+
+- Django 2.2, 3.0, 3.1, 3.2, 4.0, 4.1.
+- Python 3.9.
+- pylint below 4.0.
 
 Other
 ~~~~~
 
-- CI now tests against python 3.13
-
+- CI now only tests against contemporary versions of Django (4.2, 5.1, 5.2, 6.0)
+  and Python (3.10, 3.11, 3.12, 3.13, 3.14).
 
 Version 2.6.1
 -------------
